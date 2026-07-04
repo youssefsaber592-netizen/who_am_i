@@ -81,24 +81,72 @@
 ## 📜 **Certificates & Achievements**
 
 ### 🛠️ Technical Certificates
-| Certificate Name | View Certificate |
-| :--- | :---: |
-| **DevOps Foundation** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/devops%20foundation.jpg?raw=true) |
-| **Data Analysis Foundation** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/data%20analysis%20foundation.jpg?raw=true) |
-| **Prompt Engineering** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/prompet%20engineering.jpg?raw=true) |
+<table border="0">
+  <tr>
+    <td width="33%" align="center">
+      <b>DevOps Foundation</b><br/><br/>
+      <img src="Certificate/devops%20foundation.jpg" width="100%" alt="DevOps Foundation"/>
+    </td>
+    <td width="33%" align="center">
+      <b>Data Analysis Foundation</b><br/><br/>
+      <img src="Certificate/data%20analysis%20foundation.jpg" width="100%" alt="Data Analysis Foundation"/>
+    </td>
+    <td width="33%" align="center">
+      <b>Prompt Engineering</b><br/><br/>
+      <img src="Certificate/prompet%20engineering.jpg" width="100%" alt="Prompt Engineering"/>
+    </td>
+  </tr>
+</table>
 
 ### 💼 Professional & Soft Skills Certificates
-| Certificate Name | View Certificate |
-| :--- | :---: |
-| **إتقان مقابلات العمل (Mastering Job Interviews)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D8%A5%D8%AA%D9%82%D8%A7%D9%86%20%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg?raw=true) |
-| **آداب العمل (Business Etiquette)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D8%A2%D8%AF%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg?raw=true) |
-| **أسس ومهارات خدمة العملاء والتعامل مع الزبائن (Customer Service Skills)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D8%A3%D8%B3%D8%B3%20%D9%89%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%AE%D8%AF%D9%85%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1%20%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84%20%D9%85%D8%B9%20%D8%A7%D9%84%D8%B2%D8%A8%D8%A7%D8%A6%D9%86%20-certificate.jpg?raw=true) |
-| **الخلافات في العمل: تحديات أم فرص؟ (Conflict Management)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%85%D9%84_%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA%20%D8%A3%D9%85%20%D9%81%D8%B1%D8%B5%D8%9F-certificate.jpg?raw=true) |
-| **امتياز خدمة العملاء (Customer Service Excellence)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D8%A7%D9%85%D8%AA%D9%8A%D8%A7%D8%B2%20%D8%AE%D8%AF%D9%85%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1-certificate.jpg?raw=true) |
-| **قواعد السلوك المهني وأخلاقيات العمل (Professional Conduct & Ethics)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D9%82%D9%85%D8%A7%D8%B9%D8%AF%20%D8%A7%D9%84%D8%B3%D9%84%D9%88%D9%83%20%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A%20%D9%88%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg?raw=true) |
-| **لغة الجسد وإتيكيت الأعمال (Body Language & Business Etiquette)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%AC%D8%B3%D8%AF%20%D9%88%D8%A5%D8%AA%D9%8A%D9%83%D9%8A%D8%AA%20%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-certificate.jpg?raw=true) |
-| **مهارات الإقناع والتأثير على الآخرين (Persuasion & Influence Skills)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A5%D9%82%D9%86%D8%A7%D8%B9%20%D9%88%D8%A7%D9%84%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%A2%D8%AE%D8%B1%D9%8A%D9%86-certificate.jpg?raw=true) |
-| **مهارات التواصل الفَعّالة (Effective Communication Skills)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B5%D9%84%20%D8%A7%D9%84%D9%81%D9%8E%D9%91%D8%B9%D8%A7%D9%84%D8%A9-certificate.jpg?raw=true) |
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <b>إتقان مقابلات العمل</b><br/><br/>
+      <img src="Certificate/إتقان%20مقابلات%20العمل-certificate.jpg" width="90%"/>
+    </td>
+    <td width="50%" align="center">
+      <b>آداب العمل</b><br/><br/>
+      <img src="Certificate/آداب%20العمل-certificate.jpg" width="90%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>أسس ومهارات خدمة العملاء</b><br/><br/>
+      <img src="Certificate/أسس%20ومهارات%20خدمة%20العملاء%20والتعامل%20مع%20الزبائن%20-certificate.jpg" width="90%"/>
+    </td>
+    <td align="center">
+      <b>الخلافات في العمل_ تحديات أم فرص؟</b><br/><br/>
+      <img src="Certificate/الخلافات%20في%20العمل_%20تحديات%20أم%20فرص؟-certificate.jpg" width="90%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>امتياز خدمة العملاء</b><br/><br/>
+      <img src="Certificate/امتياز%20خدمة%20العملاء-certificate.jpg" width="90%"/>
+    </td>
+    <td align="center">
+      <b>قواعد السلوك المهني وأخلاقيات العمل</b><br/><br/>
+      <img src="Certificate/قواعد%20السلوك%20المهني%20وأخلاقيات%20العمل-certificate.jpg" width="90%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>لغة الجسد وإتيكيت الأعمال</b><br/><br/>
+      <img src="Certificate/لغة%20الجسد%20وإتيكيت%20الأعمال-certificate.jpg" width="90%"/>
+    </td>
+    <td align="center">
+      <b>مهارات الإقناع والتأثير على الآخرين</b><br/><br/>
+      <img src="Certificate/مهارات%20الإقناع%20والتأثير%20على%20الآخرين-certificate.jpg" width="90%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <b>مهارات التواصل الفَعّالة</b><br/><br/>
+      <img src="Certificate/مهارات%20التواصل%20الفَعّالة-certificate.jpg" width="45%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
