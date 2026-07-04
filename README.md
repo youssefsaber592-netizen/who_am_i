@@ -83,22 +83,22 @@
 ### 🛠️ Technical Certificates
 | Certificate Name | View Certificate |
 | :--- | :---: |
-| **DevOps Foundation** | [📄 View](#) |
-| **Data Analysis Foundation** | [📄 View](#) |
-| **Prompt Engineering** | [📄 View](#) |
+| **DevOps Foundation** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/devops%20foundation.jpg?raw=true) |
+| **Data Analysis Foundation** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/data%20analysis%20foundation.jpg?raw=true) |
+| **Prompt Engineering** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/prompet%20engineering.jpg?raw=true) |
 
 ### 💼 Professional & Soft Skills Certificates
 | Certificate Name | View Certificate |
 | :--- | :---: |
-| **إتقان مقابلات العمل (Mastering Job Interviews)** | [📄 View](#) |
-| **آداب العمل (Business Etiquette)** | [📄 View](#) |
-| **أسس ومهارات خدمة العملاء والتعامل مع الزبائن (Customer Service Skills)** | [📄 View](#) |
-| **الخلافات في العمل: تحديات أم فرص؟ (Conflict Management)** | [📄 View](#) |
-| **امتياز خدمة العملاء (Customer Service Excellence)** | [📄 View](#) |
-| **قواعد السلوك المهني وأخلاقيات العمل (Professional Conduct & Ethics)** | [📄 View](#) |
-| **لغة الجسد وإتيكيت الأعمال (Body Language & Business Etiquette)** | [📄 View](#) |
-| **مهارات الإقناع والتأثير على الآخرين (Persuasion & Influence Skills)** | [📄 View](#) |
-| **مهارات التواصل الفَعّالة (Effective Communication Skills)** | [📄 View](#) |
+| **إتقان مقابلات العمل (Mastering Job Interviews)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D8%A5%D8%AA%D9%82%D8%A7%D9%86%20%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg?raw=true) |
+| **آداب العمل (Business Etiquette)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D8%A2%D8%AF%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg?raw=true) |
+| **أسس ومهارات خدمة العملاء والتعامل مع الزبائن (Customer Service Skills)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D8%A3%D8%B3%D8%B3%20%D9%89%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%AE%D8%AF%D9%85%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1%20%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84%20%D9%85%D8%B9%20%D8%A7%D9%84%D8%B2%D8%A8%D8%A7%D8%A6%D9%86%20-certificate.jpg?raw=true) |
+| **الخلافات في العمل: تحديات أم فرص؟ (Conflict Management)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%85%D9%84_%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA%20%D8%A3%D9%85%20%D9%81%D8%B1%D8%B5%D8%9F-certificate.jpg?raw=true) |
+| **امتياز خدمة العملاء (Customer Service Excellence)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D8%A7%D9%85%D8%AA%D9%8A%D8%A7%D8%B2%20%D8%AE%D8%AF%D9%85%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1-certificate.jpg?raw=true) |
+| **قواعد السلوك المهني وأخلاقيات العمل (Professional Conduct & Ethics)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D9%82%D9%85%D8%A7%D8%B9%D8%AF%20%D8%A7%D9%84%D8%B3%D9%84%D9%88%D9%83%20%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A%20%D9%88%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg?raw=true) |
+| **لغة الجسد وإتيكيت الأعمال (Body Language & Business Etiquette)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%AC%D8%B3%D8%AF%20%D9%88%D8%A5%D8%AA%D9%8A%D9%83%D9%8A%D8%AA%20%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-certificate.jpg?raw=true) |
+| **مهارات الإقناع والتأثير على الآخرين (Persuasion & Influence Skills)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A5%D9%82%D9%86%D8%A7%D8%B9%20%D9%88%D8%A7%D9%84%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%A2%D8%AE%D8%B1%D9%8A%D9%86-certificate.jpg?raw=true) |
+| **مهارات التواصل الفَعّالة (Effective Communication Skills)** | [📄 View](https://github.com/SP-XD/SP-XD/blob/main/Certificate/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B5%D9%84%20%D8%A7%D9%84%D9%81%D9%8E%D9%91%D8%B9%D8%A7%D9%84%D8%A9-certificate.jpg?raw=true) |
 
 ---
 
@@ -131,6 +131,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/white/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 </div>
