@@ -117,7 +117,7 @@
   <tr>
     <td width="50%" align="center">
       <b>إتقان مقابلات العمل</b><br/><br/>
-      <a href="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/%D8%A5%D8%AA%D9%82%D8%A7%D9%86%20%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg">
+      <a href="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/%D8%A5%D8%AA%D9%82%D8%A7%D9%86%20%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A7%D8%AA%20%D8%A7%D9%8B%D8%B9%D9%85%D9%84-certificate.jpg">
         <img src="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/%D8%A5%D8%AA%D9%82%D8%A7%D9%86%20%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg" width="90%"/>
       </a>
     </td>
@@ -137,13 +137,12 @@
     </td>
     <td width="50%" align="center">
       <b>الخلافات في العمل: تحديات أم فرص؟</b><br/><br/>
-      <a href="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/%D8%A7%D9%8D%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%85%D9%84_%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA%20%D8%A3%D9%85%20%D9%81%D8%B1%D8%B5%D9%9F-certificate.jpg">
-        <img src="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%85%D9%84_%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA%20%D8%A3%D9%85%20%D9%81%D8%B1%D8%B5%D9%9F-certificate.jpg" width="90%"/>
+      <a href="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%85%D9%84_%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA%20%D8%A3%D9%85%20%D9%81%D8%B1%D8%B5-certificate.jpg">
+        <img src="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%85%D9%84_%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA%20%D8%A3%D9%85%20%D9%81%D8%B1%D8%B5-certificate.jpg" width="90%"/>
       </a>
     </td>
   </tr>
 </table>
-
 ---
 
 <div align="center">
