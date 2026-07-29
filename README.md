@@ -85,21 +85,21 @@
   <tr>
     <td width="33%" align="center" valign="top">
       <b>AWS IAM</b><br/><br/>
-      <img src="Certificate/AWS%20IAM.jpg" height="180" alt="AWS IAM"/>
+      <img src="Certificate/AWS%20IAM.jpg" height="170" alt="AWS IAM"/>
     </td>
     <td width="33%" align="center" valign="top">
       <b>DevOps Foundation</b><br/><br/>
-      <img src="Certificate/devops%20foundation.jpg" height="180" alt="DevOps Foundation"/>
+      <img src="Certificate/devops%20foundation.jpg" height="170" alt="DevOps Foundation"/>
     </td>
     <td width="33%" align="center" valign="top">
       <b>Data Analysis Foundation</b><br/><br/>
-      <img src="Certificate/data%20analysis%20foundation.jpg" height="180" alt="Data Analysis Foundation"/>
+      <img src="Certificate/data%20analysis%20foundation.jpg" height="170" alt="Data Analysis Foundation"/>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center" valign="top">
       <b>Prompt Engineering</b><br/><br/>
-      <img src="Certificate/prompet%20engineering.jpg" height="180" alt="Prompt Engineering"/>
+      <img src="Certificate/prompet%20engineering.jpg" height="170" alt="Prompt Engineering"/>
     </td>
     <td width="33%"></td>
     <td width="33%"></td>
@@ -111,21 +111,21 @@
   <tr>
     <td width="33%" align="center" valign="top">
       <b>إتقان مقابلات العمل</b><br/><br/>
-      <img src="Certificate/%D8%A5%D8%AA%D9%82%D8%A7%D9%86%20%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg" height="180" alt="إتقان مقابلات العمل"/>
+      <img src="Certificate/%D8%A5%D8%AA%D9%82%D8%A7%D9%86%20%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg" height="170" alt="إتقان مقابلات العمل"/>
     </td>
     <td width="33%" align="center" valign="top">
       <b>آداب العمل</b><br/><br/>
-      <img src="Certificate/%D8%A2%D8%AF%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg" height="180" alt="آداب العمل"/>
+      <img src="Certificate/%D8%A2%D8%AF%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg" height="170" alt="آداب العمل"/>
     </td>
     <td width="33%" align="center" valign="top">
       <b>أسس ومهارات خدمة العملاء</b><br/><br/>
-      <img src="Certificate/%D8%A3%D8%B3%D8%B3%20%D9%88%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%AE%D8%AF%D9%85%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1%20%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84%20%D9%85%D8%B9%20%D8%A7%D9%84%D8%B2%D8%A8%D8%A7%D8%A0%D9%86%20-certificate.jpg" height="180" alt="خدمة العملاء"/>
+      <img src="Certificate/%D8%A3%D8%B3%D8%B3%20%D9%88%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%AE%D8%AF%D9%85%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1%20%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84%20%D9%85%D8%B9%20%D8%A7%D9%84%D8%B2%D8%A8%D8%A7%D8%A0%D9%86%20-certificate.jpg" height="170" alt="خدمة العملاء"/>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center" valign="top">
       <b>الخلافات في العمل: تحديات أم فرص؟</b><br/><br/>
-      <img src="Certificate/%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%85%D9%84_%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA%20%D8%A3%D9%85%20%D9%81%D8%B1%D8%B5%D9%9F-certificate.jpg" height="180" alt="الخلافات في العمل"/>
+      <img src="Certificate/%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%85%D9%84_%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA%20%D8%A3%D9%85%20%D9%81%D8%B1%D8%B5%D9%9F-certificate.jpg" height="170" alt="الخلافات في العمل"/>
     </td>
     <td width="33%"></td>
     <td width="33%"></td>
