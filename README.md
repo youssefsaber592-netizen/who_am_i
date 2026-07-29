@@ -83,15 +83,19 @@
 ### 🛠️ Technical Certificates
 <table border="0">
   <tr>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
+      <b>AWS IAM</b><br/><br/>
+      <img src="Certificate/AWS%20IAM.jpg" width="100%" alt="AWS Identity and Access Management"/>
+    </td>
+    <td width="25%" align="center">
       <b>DevOps Foundation</b><br/><br/>
       <img src="Certificate/devops%20foundation.jpg" width="100%" alt="DevOps Foundation"/>
     </td>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <b>Data Analysis Foundation</b><br/><br/>
       <img src="Certificate/data%20analysis%20foundation.jpg" width="100%" alt="Data Analysis Foundation"/>
     </td>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <b>Prompt Engineering</b><br/><br/>
       <img src="Certificate/prompet%20engineering.jpg" width="100%" alt="Prompt Engineering"/>
     </td>
