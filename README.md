@@ -81,74 +81,54 @@
 ## 📜 **Certificates & Achievements**
 
 ### 🛠️ Technical Certificates
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td width="25%" align="center">
+    <td width="33%" align="center" valign="top">
       <b>AWS IAM</b><br/><br/>
-      <img src="Certificate/AWS%20IAM.jpg" width="100%" alt="AWS Identity and Access Management"/>
+      <img src="Certificate/AWS%20IAM.jpg" height="180" alt="AWS IAM"/>
     </td>
-    <td width="25%" align="center">
+    <td width="33%" align="center" valign="top">
       <b>DevOps Foundation</b><br/><br/>
-      <img src="Certificate/devops%20foundation.jpg" width="100%" alt="DevOps Foundation"/>
+      <img src="Certificate/devops%20foundation.jpg" height="180" alt="DevOps Foundation"/>
     </td>
-    <td width="25%" align="center">
+    <td width="33%" align="center" valign="top">
       <b>Data Analysis Foundation</b><br/><br/>
-      <img src="Certificate/data%20analysis%20foundation.jpg" width="100%" alt="Data Analysis Foundation"/>
+      <img src="Certificate/data%20analysis%20foundation.jpg" height="180" alt="Data Analysis Foundation"/>
     </td>
-    <td width="25%" align="center">
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
       <b>Prompt Engineering</b><br/><br/>
-      <img src="Certificate/prompet%20engineering.jpg" width="100%" alt="Prompt Engineering"/>
+      <img src="Certificate/prompet%20engineering.jpg" height="180" alt="Prompt Engineering"/>
     </td>
+    <td width="33%"></td>
+    <td width="33%"></td>
   </tr>
 </table>
 
 ### 💼 Professional & Soft Skills Certificates
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center" valign="top">
       <b>إتقان مقابلات العمل</b><br/><br/>
-      <img src="Certificate/إتقان%20مقابلات%20العمل-certificate.jpg" width="90%"/>
+      <img src="Certificate/%D8%A5%D8%AA%D9%82%D8%A7%D9%86%20%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg" height="180" alt="إتقان مقابلات العمل"/>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center" valign="top">
       <b>آداب العمل</b><br/><br/>
-      <img src="Certificate/آداب%20العمل-certificate.jpg" width="90%"/>
+      <img src="Certificate/%D8%A2%D8%AF%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg" height="180" alt="آداب العمل"/>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td width="33%" align="center" valign="top">
       <b>أسس ومهارات خدمة العملاء</b><br/><br/>
-      <img src="Certificate/أسس%20ومهارات%20خدمة%20العملاء%20والتعامل%20مع%20الزبائن%20-certificate.jpg" width="90%"/>
-    </td>
-    <td align="center">
-      <b>الخلافات في العمل_ تحديات أم فرص؟</b><br/><br/>
-      <img src="Certificate/الخلافات%20في%20العمل_%20تحديات%20أم%20فرص؟-certificate.jpg" width="90%"/>
+      <img src="Certificate/%D8%A3%D8%B3%D8%B3%20%D9%88%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%AE%D8%AF%D9%85%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1%20%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84%20%D9%85%D8%B9%20%D8%A7%D9%84%D8%B2%D8%A8%D8%A7%D8%A0%D9%86%20-certificate.jpg" height="180" alt="خدمة العملاء"/>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>امتياز خدمة العملاء</b><br/><br/>
-      <img src="Certificate/امتياز%20خدمة%20العملاء-certificate.jpg" width="90%"/>
+    <td width="33%" align="center" valign="top">
+      <b>الخلافات في العمل: تحديات أم فرص؟</b><br/><br/>
+      <img src="Certificate/%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%85%D9%84_%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA%20%D8%A3%D9%85%20%D9%81%D8%B1%D8%B5%D9%9F-certificate.jpg" height="180" alt="الخلافات في العمل"/>
     </td>
-    <td align="center">
-      <b>قواعد السلوك المهني وأخلاقيات العمل</b><br/><br/>
-      <img src="Certificate/قواعد%20السلوك%20المهني%20وأخلاقيات%20العمل-certificate.jpg" width="90%"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>لغة الجسد وإتيكيت الأعمال</b><br/><br/>
-      <img src="Certificate/لغة%20الجسد%20وإتيكيت%20الأعمال-certificate.jpg" width="90%"/>
-    </td>
-    <td align="center">
-      <b>مهارات الإقناع والتأثير على الآخرين</b><br/><br/>
-      <img src="Certificate/مهارات%20الإقناع%20والتأثير%20على%20الآخرين-certificate.jpg" width="90%"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <b>مهارات التواصل الفَعّالة</b><br/><br/>
-      <img src="Certificate/مهارات%20التواصل%20الفَعّالة-certificate.jpg" width="45%"/>
-    </td>
+    <td width="33%"></td>
+    <td width="33%"></td>
   </tr>
 </table>
 
