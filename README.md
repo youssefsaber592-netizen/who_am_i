@@ -81,54 +81,66 @@
 ## 📜 **Certificates & Achievements**
 
 ### 🛠️ Technical Certificates
-<table border="0" width="100%">
+<table border="0">
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" align="center">
       <b>AWS IAM</b><br/><br/>
-      <img src="Certificate/AWS%20IAM.jpg" height="170" alt="AWS IAM"/>
+      <a href="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/AWS%20IAM.jpg">
+        <img src="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/AWS%20IAM.jpg" width="90%"/>
+      </a>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" align="center">
       <b>DevOps Foundation</b><br/><br/>
-      <img src="Certificate/devops%20foundation.jpg" height="170" alt="DevOps Foundation"/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <b>Data Analysis Foundation</b><br/><br/>
-      <img src="Certificate/data%20analysis%20foundation.jpg" height="170" alt="Data Analysis Foundation"/>
+      <a href="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/devops%20foundation.jpg">
+        <img src="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/devops%20foundation.jpg" width="90%"/>
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <b>Prompt Engineering</b><br/><br/>
-      <img src="Certificate/prompet%20engineering.jpg" height="170" alt="Prompt Engineering"/>
+    <td width="50%" align="center">
+      <b>Data Analysis Foundation</b><br/><br/>
+      <a href="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/data%20analysis%20foundation.jpg">
+        <img src="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/data%20analysis%20foundation.jpg" width="90%"/>
+      </a>
     </td>
-    <td width="33%"></td>
-    <td width="33%"></td>
+    <td width="50%" align="center">
+      <b>Prompt Engineering</b><br/><br/>
+      <a href="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/prompet%20engineering.jpg">
+        <img src="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/prompet%20engineering.jpg" width="90%"/>
+      </a>
+    </td>
   </tr>
 </table>
 
 ### 💼 Professional & Soft Skills Certificates
-<table border="0" width="100%">
+<table border="0">
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" align="center">
       <b>إتقان مقابلات العمل</b><br/><br/>
-      <img src="Certificate/%D8%A5%D8%AA%D9%82%D8%A7%D9%86%20%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg" height="170" alt="إتقان مقابلات العمل"/>
+      <a href="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/%D8%A5%D8%AA%D9%82%D8%A7%D9%86%20%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg">
+        <img src="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/%D8%A5%D8%AA%D9%82%D8%A7%D9%86%20%D9%85%D9%82%D8%A7%D8%A8%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg" width="90%"/>
+      </a>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" align="center">
       <b>آداب العمل</b><br/><br/>
-      <img src="Certificate/%D8%A2%D8%AF%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg" height="170" alt="آداب العمل"/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <b>أسس ومهارات خدمة العملاء</b><br/><br/>
-      <img src="Certificate/%D8%A3%D8%B3%D8%B3%20%D9%88%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%AE%D8%AF%D9%85%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1%20%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84%20%D9%85%D8%B9%20%D8%A7%D9%84%D8%B2%D8%A8%D8%A7%D8%A0%D9%86%20-certificate.jpg" height="170" alt="خدمة العملاء"/>
+      <a href="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/%D8%A2%D8%AF%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg">
+        <img src="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/%D8%A2%D8%AF%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B9%D9%85%D9%84-certificate.jpg" width="90%"/>
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <b>الخلافات في العمل: تحديات أم فرص؟</b><br/><br/>
-      <img src="Certificate/%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%85%D9%84_%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA%20%D8%A3%D9%85%20%D9%81%D8%B1%D8%B5%D9%9F-certificate.jpg" height="170" alt="الخلافات في العمل"/>
+    <td width="50%" align="center">
+      <b>أسس ومهارات خدمة العملاء</b><br/><br/>
+      <a href="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/%D8%A3%D8%B3%D8%B3%20%D9%88%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%AE%D8%AF%D9%85%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1%20%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84%20%D9%85%D8%B9%20%D8%A7%D9%84%D8%B2%D8%A8%D8%A7%D8%A0%D9%86%20-certificate.jpg">
+        <img src="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/%D8%A3%D8%B3%D8%B3%20%D9%88%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%AE%D8%AF%D9%85%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1%20%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84%20%D9%85%D8%B9%20%D8%A7%D9%84%D8%B2%D8%A8%D8%A7%D8%A0%D9%86%20-certificate.jpg" width="90%"/>
+      </a>
     </td>
-    <td width="33%"></td>
-    <td width="33%"></td>
+    <td width="50%" align="center">
+      <b>الخلافات في العمل: تحديات أم فرص؟</b><br/><br/>
+      <a href="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/%D8%A7%D9%8D%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%85%D9%84_%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA%20%D8%A3%D9%85%20%D9%81%D8%B1%D8%B5%D9%9F-certificate.jpg">
+        <img src="https://raw.githubusercontent.com/youssefsaber592-netizen/who_am_i/main/Certificate/%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D9%85%D9%84_%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA%20%D8%A3%D9%85%20%D9%81%D8%B1%D8%B5%D9%9F-certificate.jpg" width="90%"/>
+      </a>
+    </td>
   </tr>
 </table>
 
